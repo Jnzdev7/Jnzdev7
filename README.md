@@ -25,21 +25,35 @@
 **I'm always open to new connections, partnerships, and opportunities in the tech industry!**
 </details>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jnz.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnzdev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.nepomuceno@souunit.com.br)
-
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=jnzdev7&show_icons=true&theme=gotham)
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 <p align="center">
-  <img src="15a4dbb6ee1446e1c3b57c6777beec3e.gif" alt="15a4dbb6ee1446e1c3b57c6777beec3e.gif">
+  <a href="https://www.instagram.com/jnz.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/jnzdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:carlos.nepomuceno@souunit.com.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=jnzdev7&show_icons=true&theme=gotham&hide_border=true" />
+      </td>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <br>
+    <img src="15a4dbb6ee1446e1c3b57c6777beec3e.gif" width="800">
+  </p>
+</div>
 
 ## 🤖 Languages & Tools
 <img 

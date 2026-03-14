@@ -8,9 +8,9 @@
 **`FullStack Developer`**
 
 <p>
-  Hi 👋, I'm Carlos César! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Carlos César! A passionate Computer Science student from Brazil.
 
-  - 🌱 I’m currently studying Data Science at Universidade Tiradentes (UNIT) 🎓
+  - 🌱 I’m currently studying Computer Science at Universidade Tiradentes (UNIT) 🎓
 
   - 🔭 I am looking for my first job opportunity as a Junior Developer. My dream is to one day work with AI and Machine Learning.
 </p>

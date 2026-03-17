@@ -44,7 +44,7 @@
         <img height="180" src="https://github-readme-stats.vercel.app/api?username=jnzdev7&show_icons=true&theme=gotham&hide_border=true" />
       </td>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=gotham&layout=compact&custom_title=Technologiess&langs_count=9&hide_border=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnzdev7&theme=gotham&layout=compact&custom_title=Technologiess&langs_count=9&hide_border=true" />
       </td>
     </tr>
   </table>

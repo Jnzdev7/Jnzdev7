@@ -38,16 +38,20 @@
 </p>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=jnzdev7&show_icons=true&theme=gotham&hide_border=true" />
-      </td>
-      <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnzdev7&theme=gotham&layout=compact&custom_title=Technologiess&langs_count=9&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <table>
+  <tr>
+    <td>
+      <a href="https://github.com/v1ih">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnzdev7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/v1ih">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnzdev7&layout=compact&langs_count=6&theme=gotham"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
   <p align="center">
     <br>
